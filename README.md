@@ -1,1 +1,1 @@
-# Tugas_Resume_Kelompok_Masyarakat
+# Komputer_Masyarakat (Semester_7)
